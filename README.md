@@ -1,4 +1,4 @@
-PROJECT OBJECTIVE
+# PROJECT OBJECTIVE
 
 
 
@@ -16,7 +16,7 @@ In this project, I am analyzing sales and product data to understand the overall
 
    
 
-PURPOSE OF THE PROJECT
+# PURPOSE OF THE PROJECT
 
 
 
